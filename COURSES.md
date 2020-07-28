@@ -1,9 +1,13 @@
-**MATH**  
+
+**MATH & ENTRY LEVEL**  
 [MIT 6.042J Mathematics for Computer Science, Fall 2010](https://www.youtube.com/playlist?list=PLB7540DEDD482705B)  
+[6.0001 Introduction to Computer Science and Programming in Python. Fall 2016](https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)
 
 **CALCULUS**  
-[MIT 18.02 Multivariable Calculus, Fall 2007](https://www.youtube.com/playlist?list=PL4C4C8A7D06566F38)  
 [MIT 18.01 Single Variable Calculus, Fall 2006](https://www.youtube.com/playlist?list=PL590CCC2BC5AF3BC1)  
+[MIT 18.02 Multivariable Calculus, Fall 2007](https://www.youtube.com/playlist?list=PL4C4C8A7D06566F38)  
+[MIT 18.03 Differential Equations, Spring 2006](https://www.youtube.com/playlist?list=PLEC88901EBADDD980)  
+[MIT Learn Differential Equations (Gilbert Strang & Cleve Moler)](https://www.youtube.com/playlist?list=PLUl4u3cNGP63oTpyxCMLKt_JmB0WtSZfG)  
 
 **LINEAR ALGEBRA**  
 [MIT 18.06SC Linear Algebra, Fall 2011](https://www.youtube.com/playlist?list=PL221E2BBF13BECF6C)  
@@ -14,10 +18,11 @@
 [MIT 6.854 (Advanced Algorithms), Spring 2016](https://www.youtube.com/playlist?list=PL6ogFv-ieghdoGKGg2Bik3Gl1glBTEu8c)  
 [MIT 6.851 Advanced Data Structures, Spring 2012](https://www.youtube.com/playlist?list=PLUl4u3cNGP61hsJNdULdudlRL493b-XZf)  
 
-
 **STATISTICS**  
 [MIT 18.650 Statistics for Applications, Fall 2016](https://www.youtube.com/playlist?list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0)  
 
+**ENGINEERING**  
+[MIT 6.003 Signals and Systems, Fall 2011](https://www.youtube.com/playlist?list=PLUl4u3cNGP61kdPAOC7CzFjJZ8f1eMUxs)  
 
 **NUCLEAR ENGINEERING**  
 [MIT 22.01 Introduction to Nuclear Engineering and Ionizing Radiation, Fall 2016](https://www.youtube.com/playlist?list=PLUl4u3cNGP61FVzAxBP09w2FMQgknTOqu)  
