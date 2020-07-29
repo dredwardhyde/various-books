@@ -4,6 +4,7 @@
 [Harvard - CS50X Lectures 2019](https://www.youtube.com/playlist?list=PLhQjrBD2T381L3iZyDTxRwOBuUt6m1FnW)
 
 **CALCULUS**  
+[3Blue1Brown Essence of calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)  
 [MIT 18.01 Single Variable Calculus, Fall 2006](https://www.youtube.com/playlist?list=PL590CCC2BC5AF3BC1)  
 [MIT 18.02 Multivariable Calculus, Fall 2007](https://www.youtube.com/playlist?list=PL4C4C8A7D06566F38)  
 [MIT 18.03 Differential Equations, Spring 2006](https://www.youtube.com/playlist?list=PLEC88901EBADDD980)  
@@ -42,3 +43,6 @@
 
 **CYBERSECURITY**  
 [MIT 6.858 Computer Systems Security, Fall 2014](https://www.youtube.com/playlist?list=PLUl4u3cNGP62K2DjQLRxDNRi0z2IRWnNh)  
+
+**FINANCE**  
+[MIT 18.S096 Topics in Mathematics w Applications in Finance](https://www.youtube.com/playlist?list=PLUl4u3cNGP63ctJIEC1UnZ0btsphnnoHR)  
