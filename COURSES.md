@@ -36,6 +36,7 @@
 **DATA SCIENCE AND AI**  
 [MIT 6.034 Artificial Intelligence, Fall 2010](https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi)  
 [MIT 6.0002 Introduction to Computational Thinking and Data Science, Fall 2016](https://www.youtube.com/playlist?list=PLUl4u3cNGP619EG1wp0kT-7rDE_Az5TNd)  
+[MIT 6.S191: Introduction to Deep Learning](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)  
 [Jeremy Howard - Introduction to Machine Learning for Coders](https://www.youtube.com/playlist?list=PLfYUBJiXbdtSyktd8A_x0JNd6lxDcZE96)  
 [Jeremy Howard - Practical Deep Learning for Coders 2019](https://www.youtube.com/playlist?list=PLfYUBJiXbdtSIJb-Qd3pw0cqCbkGeS0xn)  
 [Jeremy Howard - Cutting Edge Deep Learning for Coders 2](https://www.youtube.com/playlist?list=PLfYUBJiXbdtTttBGq-u2zeY1OTjs5e-Ia)  
