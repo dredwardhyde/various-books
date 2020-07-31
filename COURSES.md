@@ -31,6 +31,7 @@
 [MIT 22.01 Introduction to Nuclear Engineering and Ionizing Radiation, Fall 2016](https://www.youtube.com/playlist?list=PLUl4u3cNGP61FVzAxBP09w2FMQgknTOqu)  
 
 **PROBABILITY**  
+[MIT RES.6-012 Introduction to Probability, Spring 2018](https://www.youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6)  
 [6.041 Probabilistic Systems Analysis and Applied Probability](https://www.youtube.com/playlist?list=PLUl4u3cNGP61MdtwGTqZA0MreSaDybji8)  
 
 **DATA SCIENCE AND AI**  
