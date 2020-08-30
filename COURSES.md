@@ -44,7 +44,8 @@
 [Jeremy Howard - Practical Deep Learning for Coders 2019](https://www.youtube.com/playlist?list=PLfYUBJiXbdtSIJb-Qd3pw0cqCbkGeS0xn)  
 [Jeremy Howard - Cutting Edge Deep Learning for Coders 2](https://www.youtube.com/playlist?list=PLfYUBJiXbdtTttBGq-u2zeY1OTjs5e-Ia)  
 [Hvass Laboratories - TensorFlow Tutorials](https://www.youtube.com/playlist?list=PL9Hr9sNUjfsmEu1ZniY0XpHSzl5uihcXZ)  
-[3Blue1Brown - Neural networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+[3Blue1Brown - Neural networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)  
+[DS-GA 1008 · SPRING 2020 · NYU CENTER FOR DATA SCIENCE](https://atcold.github.io/pytorch-Deep-Learning/)  
 
 **CYBERSECURITY**  
 [MIT 6.858 Computer Systems Security, Fall 2014](https://www.youtube.com/playlist?list=PLUl4u3cNGP62K2DjQLRxDNRi0z2IRWnNh)  
